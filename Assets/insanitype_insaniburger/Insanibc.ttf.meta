@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5f232c75607f67641b957714ae354295
+timeCreated: 1510418201
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Insaniburger with Cheese
+  fontNames:
+  - Insaniburger with Cheese
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
