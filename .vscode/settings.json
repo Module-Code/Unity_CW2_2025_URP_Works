@@ -52,5 +52,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Unity_CW2_2022_Basic_Loop_02_2024_VSOK 2025.sln"
+    "dotnet.defaultSolution": "Unity_CW2_2022_Basic_Loop_02_2024_VSOK 2025.sln",
+    "dotnet.preferCSharpExtension": true
 }
